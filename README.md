@@ -1,3 +1,14 @@
 # FIT2099---Object-oriented-design-and-implementation
 
-This 3 assignments are continuous task by increasing the features, the assignment is about to create a game named Static Factory, similar to famous video game Lethal Company, in this assignment I'm getting familiar with game engine, and also the principles and uml/sequence class diagram to design an object-oriented program.
+This repository contains 3 assignments (progressively increase features) focused on developing a game titled Static Factory, inspired by the popular video game Lethal Company.
+ 
+In these assignments I'm getting familiar with the game engine, SOLID principles and UML/sequence diagram to properly design a Object-Oriented program.
+
+Assignment 1
+- Introduction to basic game mechanics and engine setup.
+  
+Assignment 2
+- Intermediate features, incorporating more complex interactions and system design.
+  
+Assignment 3
+- Advanced gameplay elements, focusing on optimizing performance and refining user experience.
